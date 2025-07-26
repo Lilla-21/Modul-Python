@@ -44,7 +44,7 @@ Ada beberapa editor yang sering di gunakan dalam pengoperasian python seperti VS
 *   Google Collab editor yang paling gampang di gunakan karna bawaan google:
     * Search Google colab
  
-      ![colab](Pengenalan%20Python%20dan%20Tools/colab.png)
+      ![Gambar Colab](colab.png)
 
     * Notebook baru
 
@@ -54,7 +54,7 @@ Ada beberapa editor yang sering di gunakan dalam pengoperasian python seperti VS
    * Jalankan installer dan ikuti petunjuk instalasi (Saat instalasi, centang opsi "Add to PATH" dan "Install code command" jika muncul).
    * Setelah selesai buka VS Code, klik menu Extensions (ikon kotak di sidebar kiri atau tekan Ctrl + Shift + X)
 
-      ![vscode](Pengenalan%20Python%20dan%20Tools/vscode.png)
+      ![vscode](vscode.png)
   
    * Cari “Python” dari Microsoft → klik Install (Extension ini memungkinkan kamu menjalankan file .py langsung dari editor).
    * jika ingin membua file baru pada VS Code bisa melalui folder di pc masing" atau langsung saja melalui VS Code dengan klik pada menu file di side bar atas pojok kiri dan pilih New File, lalu simpan file dengan format py atau ipynb ( rilla_cantik.py / rilla_cantik.ipynb)
@@ -78,11 +78,11 @@ print("Hello, World!")
 
 *   Jika di jalankan di Goggle collab, ketik codenya dan jalan kan perintah di tombol panah run yang terletak di samping sel terminalnya:
 
-    ![hello](Pengenalan%20Python%20dan%20Tools/hello.png)
+    ![hello](hello.png)
 
 *   Jika menggunakan VS Code tombol runnya terletak di sebelah kanan:
 
-    ![vscodepanah](Pengenalan%20Python%20dan%20Tools/vscodepanah.png)
+    ![vscodepanah](vscodepanah.png)
 
 Fungsi print sendiri merupakan fungsi bawaan python yang di gunakan untuk menampilkan output ke layar, di mana outputnya adalah Hello World, tanda kurung () biasa di gunakan untuk memanggil fungsi jadi apapun yang ada di dalam kurung akan di kirim sebagai argumen dalam fungs print, dan untuk tanda kutip sendiri tergantung tipe data yang di gunakan karena pada contoh kali ini menggunakan data tipe string makannya menggunakan tanda kutip yang menunjukan bahwa data tersebut adalah data teks.
 
@@ -119,4 +119,4 @@ print("Umur saya:", umur)
 
   Lalu tampilkan semua data menggunakan print(), contoh output:
 
-  ![tugas](Pengenalan%20Python%20dan%20Tools/tugas.png)
+  ![tugas](tugas.png)
